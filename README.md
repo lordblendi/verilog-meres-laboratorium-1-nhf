@@ -1,6 +1,6 @@
 # Mérés laboratórium 1 nagyházi
 
-Ezt a nagyházit a Mérés laboratórium 1 tantárgyhoz készítettük Demény Fruzsinával a BME-s tanulmányaink során a 2011/2012/1. félévben. A teszteléshez ISE Simulatort használtunk, a bemutatás FPGA-n történt.
+Ezt a nagyházit a Mérés laboratórium 1 tantárgyhoz készítettük [Demény Fruzsinával](https://github.com/frauneworld) a BME-s tanulmányaink során a 2011/2012/1 félévben. A teszteléshez ISE Simulatort használtunk, a bemutatás FPGA-n történt.
 
 ## Feladat - Soros adó egység (UART)
 
